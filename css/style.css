@@ -5,3 +5,7 @@ body {
 p {
     font-size: large;
 }
+
+table {
+    background-color: #f0f0f0;
+}
